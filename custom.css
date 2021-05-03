@@ -41,7 +41,7 @@ hr:not([size]) {
 }
 #java {
     background-color: #0093E9;
-    background-image: linear-gradient(-7deg, #4158D0 0%, #C850C0 100%);
+    background-image: linear-gradient(-7deg, #FAD961 0%, #C850C0 100%);
 }
     
 #js {
@@ -61,7 +61,17 @@ hr:not([size]) {
 
 #linux {
     background-color: #FAD961;
+    background-image: linear-gradient(-7deg, #4158D0 0%, #F76B1C 100%);
+}
+
+#android {
+    background-color: #FAD961;
     background-image: linear-gradient(-7deg, #4158D0 0%, #C850C0 100%);
+}
+
+#wordpress {
+    background-color: #FAD961;
+    background-image: linear-gradient(-7deg, #4158D0 0%, #F76B1C 100%);
 }
     
 .skill-column {
